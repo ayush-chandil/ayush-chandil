@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayush Chandil
 - 👀 I’m interested in reading Books,updating yourself in current affairs and many more.
-- 🌱 I’m currently learning DSA and Front-End development which includes HTML,CSS,JAVASCRIPT.
+- 🌱 I’m currently learning DSA and Development.
 
 <!---
 ayush-chandil/ayush-chandil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
