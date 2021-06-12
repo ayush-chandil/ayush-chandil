@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-chandil&layout=compact)](https://github.com/ayush-chandil/github-readme-stats)
 
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ayush-chandil.visitor-badge)
+
 
 
 
