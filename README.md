@@ -4,9 +4,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 🎓 &nbsp; Studying Computer Science and Enginnering at IIIT Vadodara.
 - 🔭 &nbsp; I’m currently learning DSA
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Enginnering at IIIT Vadodara.
 - 💼 &nbsp; Front-end web developer.
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/ayushchandil)♟ to play some games.
 - ✍️ &nbsp; Watching Movies and reading books.
