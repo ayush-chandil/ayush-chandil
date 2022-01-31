@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Enginnering at IIIT Vadodara.
+- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara.
 - 🔭 &nbsp; I’m currently learning DSA
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Front-end web developer.
