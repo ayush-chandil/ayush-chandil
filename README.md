@@ -4,8 +4,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara.
-- 🔭 &nbsp; I’m currently learning DSA
+- 🎓 &nbsp; Studied Computer Science and Engineering at IIIT Vadodara.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Web developer.
 - 👯 We can connect on [Chess.com](https://www.chess.com/member/ayushchandil)♟ to play some games.
@@ -22,12 +21,13 @@
 <br>
 
 <!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-<img align="center" src="https://github-readme-stats-pearl-ten-99.vercel.app/api?username=ayush-chandil&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt=" Ayush Github Stats">
+[![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayush-chandil&theme=radical&count_private=true)](https://github-readme-stats.vercel.app/api?username=in-ayush-chandil&show_icons=true&theme=radical)
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=darshanhande11&&hide=CSS&layout=compact&theme=radical) -->
+
 
 </br>
-
-
-[![Top Langs](https://github-readme-stats-pearl-ten-99.vercel.app/api/top-langs/?username=ayush-chandil&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ayush-chandil/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
